@@ -3,7 +3,8 @@
 def parrot
   puts "Squawk!"
  end  
-  if phrase=parrot
+  
+if phrase=parrot
    return "Squawk"
 end   
    
