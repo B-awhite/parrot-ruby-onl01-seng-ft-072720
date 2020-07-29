@@ -3,11 +3,6 @@
 def parrot
   puts "Squawk!"
  end  
-  
-if phrase=parrot
-   return "Squawk"
-end   
-   
 
 def parrot(phrase="Squawk!")
   puts phrase
