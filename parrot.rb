@@ -5,7 +5,7 @@ def parrot
 end  
 
 def parrot
-  phrase= "parrot"
+  phrase= parrot
   return "phrase"
 end  
 
